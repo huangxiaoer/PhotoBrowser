@@ -21,7 +21,7 @@ class ViewController: UIViewController {
     }
 
     deinit{
-        
+        print("哈哈啊")
     }
 
 }
